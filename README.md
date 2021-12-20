@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+- 💻 Skills: **Python, Javascript, C**.
 - 🔭 I’m currently working on **FUD Crypter**.
 - 🌱 I’m currently learning: **Typescript, C.**
 - 🤔 I’m looking for help with: **C**.
