@@ -9,6 +9,7 @@
 - ⚡ Fun fact: **I shitpost quite often.**
 
 # Stats
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=og98tqls1mapft27y7rl9774q&cover_image=true&theme=default)](https://github.com/V3dantSh4rma)
 ![Vedant's Github Stats](https://github-readme-stats.vercel.app/api?username=V3dantSh4rma&show_icons=true&theme=tokyonight)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=V3dantSh4rma&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=VedantSharma)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=V3dantSh4rma&langs_count=8)](https://github.com/V3dantSh4rma)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=VedantSharma)](https://github.com/V3dantSh4rma)
