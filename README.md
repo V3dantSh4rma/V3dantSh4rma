@@ -18,8 +18,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=V3dantSh4rma&langs_count=8)](https://github.com/V3dantSh4rma)
 
-[![Snake animation](![Snake animation](https://github.com/V3dantSh4rma/V3dantSh4rma/blob/output/github-contribution-grid-snake.gif))
 
-[![Snake animation](https://github.com/V3dantSh4rma/V3dantSh4rma/blob/output/github-contribution-grid-snake.svg)]
+[![Snake animation](https://github.com/V3dantSh4rma/V3dantSh4rma/blob/output/github-contribution-grid-snake.svg)
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=VedantSharma)](https://github.com/V3dantSh4rma)
