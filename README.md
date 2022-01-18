@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on: ~~**FUD Crypter**~~ Nothing, at the minute.
 - 🌱 I’m currently learning: **Typescript, C, Cryptography.**
 - 🤔 I’m looking for help with: **C**.
-- 📫 How to reach me: **[Discord](https://discord.gg/8pWcDJFdYn)**
+- 📫 How to reach me: **[Discord](https://discord.gg/fZF9nyD7KP)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I shitpost quite often.**
 
