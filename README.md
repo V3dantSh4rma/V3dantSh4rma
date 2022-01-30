@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 💻 Skills: **Python, Javascript, C**.
-- 🔭 I’m currently learning: **Frontend Development, React**
-- 🌱 I’m currently learning: **Typescript, C, Cryptography.**
+- 🌱 I’m currently learning: **Typescript, C++**
 - 🤔 I’m looking for help with: **C**.
 - 📫 How to reach me: **[Discord](https://discord.gg/fZF9nyD7KP)**
 - 😄 Pronouns: **He/Him**
