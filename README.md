@@ -7,6 +7,7 @@
 - 📫 How to reach me: **[Discord](https://discord.gg/fZF9nyD7KP)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I shitpost quite often.**
+- 🤖 Total time spend on coding - [![wakatime](https://wakatime.com/badge/user/24fd495d-7016-447f-8a53-b32e8ec3987c.svg)](https://wakatime.com/@24fd495d-7016-447f-8a53-b32e8ec3987c)
 
 <h3 align="left">Skills:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
