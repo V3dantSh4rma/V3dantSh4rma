@@ -6,7 +6,7 @@
 - 💻 Skills: **Python, Javascript, C**.
 - 🌱 I’m currently learning: **Typescript, C++**
 - 🤔 I’m looking for help with: **C**.
-- 📫 How to reach me: **[Discord](https://discord.gg/fZF9nyD7KP)**
+- 📫 How to reach me: **[Discord](https://discord.gg/)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I shitpost quite often.**
 - 🤖 Total time spend on coding - [![wakatime](https://wakatime.com/badge/user/24fd495d-7016-447f-8a53-b32e8ec3987c.svg)](https://wakatime.com/@24fd495d-7016-447f-8a53-b32e8ec3987c)
