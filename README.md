@@ -22,7 +22,7 @@
   <img height="160em" src="http://github-readme-streak-stats.herokuapp.com/?user=chrop01&theme=react&hide_border=true" />
 </p>
 
-![Vedant's Github Stats](https://github-readme-stats.vercel.app/api?username=V3dantSh4rma&show_icons=true&theme=tokyonight)
+![Vedant's Github Stats](https://github-readme-stats.vercel.app/api?username=V3dantSh4rma&show_icons=true&theme=tokyonight&count_private=true)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=V3dantSh4rma&langs_count=8)](https://github.com/V3dantSh4rma)
 
