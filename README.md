@@ -29,4 +29,9 @@
 
 ![Snake animation](https://github.com/V3dantSh4rma/V3dantSh4rma/blob/output/github-contribution-grid-snake.svg)
 
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=V3dantSh4rma&theme=redical">
+</p> 
+
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=VedantSharma)](https://github.com/V3dantSh4rma)
