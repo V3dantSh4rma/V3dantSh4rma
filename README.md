@@ -14,20 +14,8 @@
 # Stats
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=og98tqls1mapft27y7rl9774q&cover_image=true&theme=default)](https://github.com/V3dantSh4rma)
 
-<p>
-  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com/?user=chrop01&theme=react&hide_border=true" />
-</p>
-
 ![Vedant's Github Stats](https://github-readme-stats.vercel.app/api?username=V3dantSh4rma&show_icons=true&theme=tokyonight&count_private=true)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=V3dantSh4rma&langs_count=8)](https://github.com/V3dantSh4rma)
-
 
 ![Snake animation](https://github.com/V3dantSh4rma/V3dantSh4rma/blob/output/github-contribution-grid-snake.svg)
 
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=V3dantSh4rma&theme=redical">
-</p> 
-
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=VedantSharma)](https://github.com/V3dantSh4rma)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@VedantSharma/b9c058d3-38eb-4a47-87cf-429f4bf793cd.png" /></a>
