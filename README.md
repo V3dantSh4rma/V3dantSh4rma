@@ -15,7 +15,9 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/554301512227094528)](https://discord.com/users/554301512227094528)
 
-![Vedant's Github Stats](https://github-readme-stats.vercel.app/api?username=V3dantSh4rma&show_icons=true&theme=tokyonight&count_private=true)
+
+![Vedant's Github Stats](https://github-readme-stats.vercel.app/api?username=V3dantSh4rma&show_icons=true&theme=bear)
+
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=V3dantSh4rma&layout=compact)](https://github.com/V3dantSh4rma/)
 
