@@ -17,6 +17,9 @@
 
 ![Vedant's Github Stats](https://github-readme-stats.vercel.app/api?username=V3dantSh4rma&show_icons=true&theme=tokyonight&count_private=true)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=V3dantSh4rma&layout=compact)](https://github.com/V3dantSh4rma/)
+
+
 ![Snake animation](https://github.com/V3dantSh4rma/V3dantSh4rma/blob/output/github-contribution-grid-snake.svg)
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@VedantSharma/b9c058d3-38eb-4a47-87cf-429f4bf793cd.png" /></a>
