@@ -11,7 +11,7 @@
 <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 # Stats
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=og98tqls1mapft27y7rl9774q&unique={true|1|on|yes})
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=og98tqls1mapft27y7rl9774q&count=1)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/554301512227094528)](https://discord.com/users/554301512227094528)
 
