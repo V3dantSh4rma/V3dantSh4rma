@@ -2,7 +2,7 @@
 
 - 💻 Skills: **Python, Javascript/Typescript**.
 - 🌱 I’m currently learning: **OOP**
-- 📫 How to reach me: **[G-mail](mailto:vedant.jsx@gmail.com)**
+- 📫 How to reach me: **[G-mail](mailto:sharmavedant020@gmail.com)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Earth is not flat.**
 - 🤖 Total time spend on coding - [![wakatime](https://wakatime.com/badge/user/24fd495d-7016-447f-8a53-b32e8ec3987c.svg)](https://wakatime.com/@24fd495d-7016-447f-8a53-b32e8ec3987c)
