@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 Skills: **Python, Javascript/Typescript, (HTML/CSS)  **.
+- 💻 Skills: **Python, Javascript/Typescript, (HTML/CSS)**.
 - 🌱 I’m currently learning: **Java**
 - 📫 How to reach me: **[G-mail](mailto:sharmavedant020@gmail.com)**
 - 🤖 Total Hours Coding Time (Not accurate) - [![wakatime](https://wakatime.com/badge/user/24fd495d-7016-447f-8a53-b32e8ec3987c.svg)](https://wakatime.com/@24fd495d-7016-447f-8a53-b32e8ec3987c)
