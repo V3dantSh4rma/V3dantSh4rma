@@ -18,4 +18,4 @@ Hello, there! My name is Vedant Sharma. I live in New Delhi, India. I am 16 year
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=V3dantSh4rma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=V3dantSh4rma&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=V3dantSh4rma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@VedantSharma/3c714185-2f47-4549-a836-c70c5915b2eb.png" /></a>
