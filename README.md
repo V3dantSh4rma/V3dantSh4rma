@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=V3dantSh4rma&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-Hello, there! My name is Vedant Sharma. I live in New Delhi, India. I am 16 years old and currently interested in Low Level Programming and focusing more on Data Structures.
+Hello, there! My name is Vedant Sharma. I live in New Delhi, India. I am 16 years old and currently interested in Low Level Programming, Reverse Engineering and Data Structures.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=og98tqls1mapft27y7rl9774q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=og98tqls1mapft27y7rl9774q&redirect=true)
 
