@@ -7,8 +7,6 @@ Hello, there! My name is Vedant Sharma. I live in New Delhi, India. I am 16 year
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/554301512227094528)](https://discord.com/users/554301512227094528)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedant_sh4rm4) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14482762/vedant) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/V3dantSharma) 
@@ -18,4 +16,3 @@ Hello, there! My name is Vedant Sharma. I live in New Delhi, India. I am 16 year
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=V3dantSh4rma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=V3dantSh4rma&theme=dark&hide_border=false)<br/>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@VedantSharma/3c714185-2f47-4549-a836-c70c5915b2eb.png" /></a>
